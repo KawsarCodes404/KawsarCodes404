@@ -9,7 +9,7 @@
 
 <h3 align="left">🌱 Learning & Development:</h3>
 
-- 🌱 I’m currently learning modern JavaScript like JavaScript, TypeScript, Node.js, MongoDB & React !. **Programming Hero level 1 course.**
+- 🌱 I’m currently learning Web Development like JavaScript, TypeScript, Node.js, MongoDB & React !. **Programming Hero level 1 course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KawsarCodes404](https://github.com/KawsarCodes404)
 
