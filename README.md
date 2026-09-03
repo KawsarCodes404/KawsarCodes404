@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/Untitled design (2).png" alt="Ridwanul Hoque Kawsar - GitHub Banner" width="100%">
+</p>
+
+
+
 <h1 align="center">Assalamu Alaikum, I'm Ridwanul Hoque Kawsar</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
