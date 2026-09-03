@@ -42,20 +42,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes404&" alt="kawsarcodes404" /></p> -->
 
-<!-- <h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kawsarcodes404&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsarcodes404&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes404&theme=dark" alt="Streak Stats" />
-</p> -->
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kawsarcodes404&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kawsarcodes404&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
