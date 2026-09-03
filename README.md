@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ridwanulhoquekawsar404@gmail.com**
 
-- ⚡ Fun fact **I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self taught, active learner, learning by doing & Experiential Learning mindset !**
+- ⚡ Fun fact **I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
