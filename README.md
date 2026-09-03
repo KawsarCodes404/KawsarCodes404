@@ -7,6 +7,8 @@
 - 🎓 **SSC & HSC Passed** — GPA 5.00 from a Science background.
 - 💻 **Basic Data Structures & Algorithms** — Built a foundation in fundamental DSA concepts.
 
+<h3 align="left">🌱 Learning & Development:</h3>
+
 - 🌱 I’m currently learning modern JavaScript like JavaScript, TypeScript, Node.js, MongoDB & React !. **Programming Hero level 1 course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KawsarCodes404](https://github.com/KawsarCodes404)
