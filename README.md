@@ -41,3 +41,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsarcodes404&show_icons=true&locale=en" alt="kawsarcodes404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes404&" alt="kawsarcodes404" /></p>
+
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KawsarCodes404&show_icons=true&theme=dark&cache_bust=1" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KawsarCodes404&layout=compact&theme=dark&cache_bust=1" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawsarCodes404&theme=dark&cache_bust=1" alt="Streak Stats" />
+</p>
