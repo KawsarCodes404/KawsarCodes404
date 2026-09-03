@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum, I'm Ridwanul Hoque Kawsar</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | Learning JavaScript, TypeScript, Node.js, MongoDB & React !</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning React, TypeScript & modern JavaScript. **Programming Hero level 1 course.**
+- 🌱 I’m currently learning modern JavaScript like JavaScript, TypeScript, Node.js, MongoDB & React !. **Programming Hero level 1 course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KawsarCodes404](https://github.com/KawsarCodes404)
 
