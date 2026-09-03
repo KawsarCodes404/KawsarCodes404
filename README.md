@@ -6,7 +6,6 @@
 - ⭐ **2★ CodeChef Coder** — Have a reasonable foundation in basic C++.
 - 🎓 **SSC & HSC Passed** — GPA 5.00 from a Science background.
 - 💻 **Basic Data Structures & Algorithms** — Built a foundation in fundamental DSA concepts.
-- 
 
 - 🌱 I’m currently learning modern JavaScript like JavaScript, TypeScript, Node.js, MongoDB & React !. **Programming Hero level 1 course.**
 
