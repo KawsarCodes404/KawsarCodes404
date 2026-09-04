@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Untitled design (2).png" alt="Ridwanul Hoque Kawsar - GitHub Banner" width="100%">
+  <img src="./assets/Untitled design (8).png" alt="Ridwanul Hoque Kawsar - GitHub Banner" width="100%">
 </p>
 
 
