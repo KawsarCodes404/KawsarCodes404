@@ -57,3 +57,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes404&theme=dark" alt="Streak Stats" />
 </p>
+
+
+## 🚀 Featured Projects
+
+### [Dev Stack Assignment](https://github.com/KawsarCodes404/Dev-stack-assignment)
+A web app for exploring technologies and building a custom stack based on each technology’s rating, market demand, and difficulty. You can add technologies once and manage your stack by removing individual items or clearing it.
+
+**Tech Stack:** React, TypeScript, Tailwind CSS, Vite, React Toastify
+
+### [DevConf 2026](https://github.com/KawsarCodes404/B14-A01-DevConf-2026)
+A conference landing page featuring event information, a speaker lineup, registration calls to action, and ticket pricing plans.
+
+**Tech Stack:** HTML, CSS, Figma
