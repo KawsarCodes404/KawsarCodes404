@@ -29,6 +29,8 @@
 
 - ⚡ Fun fact **I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !**
 
+<br>
+
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
@@ -45,6 +47,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
 </p>
 
+<br>
+
 <h2 align="center">🏆 Competitive Programming Profiles</h2>
 
 <p align="center">
@@ -56,25 +60,23 @@
   <a href="https://auth.geeksforgeeks.org/user/ridwanulhoquekawsar"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<h2 align="left"><img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35" alt="" /> <b>FOLLOW ME ON SOCIALS:</b></h2>
+
 <p align="left">
-<a href="https://twitter.com/@ridwanul_hoque1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ridwanul_hoque1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ridwanul-hoque-kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridwanul-hoque-kawsar" height="30" width="40" /></a>
-<a href="https://fb.com/ridwanul.hoque.kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridwanul.hoque.kawsar" height="30" width="40" /></a>
-<a href="https://instagram.com/ridwanulhoquekawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridwanulhoquekawsar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ridwanul hoque kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ridwanul hoque kawsar" height="30" width="40" /></a>
-
-<h2 align="center">📊 GitHub Stats &amp; Contributions</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawsarCodes404&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KawsarCodes404&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/@ridwanul_hoque1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" /></a>
+  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/ridwanul%20hoque%20kawsar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KawsarCodes404&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
+<br><br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="left"><img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30" alt="" /> <b>GITHUB STATISTICS &amp; ANALYSIS:</b></h2>
+
+<h3 align="left">GitHub Contributions:</h3>
 
 <p align="center">
   <picture>
@@ -84,7 +86,28 @@
   </picture>
 </p>
 
-<h2 align="center">💭 Random Developer Quote</h2>
+<br>
+
+<h3 align="left">GitHub Statistics:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KawsarCodes404&amp;show_icons=true&amp;locale=en&amp;theme=github_dark&amp;hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KawsarCodes404&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<br>
+
+<h3 align="left">Repository Stats &amp; Streak:</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KawsarCodes404&amp;theme=dark&amp;hide_border=true" alt="Streak Stats" />
+</p>
+
+<br>
+
+<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="" /> <b>RANDOM DEV QUOTE:</b></h2>
+
+<br>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" alt="Random developer quote" />
