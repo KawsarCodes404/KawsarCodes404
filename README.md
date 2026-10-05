@@ -43,6 +43,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes404&" alt="kawsarcodes404" /></p> -->
 
+<h2 align="center">🏆 Competitive Programming Profiles</h2>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ridwanul_hoque"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/ridwanul_hoque_kawsar_2"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://vjudge.net/user/Ridwanul_Hoque"><img src="https://img.shields.io/badge/VJudge-111111?style=for-the-badge" alt="VJudge" /></a>
+  <a href="https://leetcode.com/ridwanul_hoque_kawsar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/kawsarhaque430"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ridwanulhoquekawsar"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
+
+
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kawsarcodes404&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165" />
