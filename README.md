@@ -17,7 +17,7 @@
 
 <h3 align="left">🌱 Learning & Development:</h3>
 
-- 🌱 I’m currently learning Web Development with JavaScript, TypeScript, Node.js, MongoDB, and React. **Programming Hero Level 1.**
+- 🌱 I’m currently learning Web Development with JavaScript, TypeScript, Node.js, MongoDB, and React.
 - 👨‍💻 All my projects are on my [GitHub Profile](https://github.com/KawsarCodes404).
 - 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/ridwanul-hoque-kawsar).
 - 💬 Ask me about **JavaScript, TypeScript, and web development.**
