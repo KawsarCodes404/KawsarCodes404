@@ -17,16 +17,12 @@
 
 <h3 align="left">🌱 Learning & Development:</h3>
 
-- 🌱 I’m currently learning Web Development like JavaScript, TypeScript, Node.js, MongoDB & React !. **Programming Hero level 1 course.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KawsarCodes404](https://github.com/KawsarCodes404)
-
-- 💬 Ask me about **JavaScript, TypeScript & web development**
-
-- 📫 How to reach me **ridwanulhoquekawsar404@gmail.com**
-
-- ⚡ Fun fact **I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !**
-
+- 🌱 I’m currently learning Web Development with JavaScript, TypeScript, Node.js, MongoDB, and React. **Programming Hero Level 1.**
+- 👨‍💻 All my projects are on my [GitHub Profile](https://github.com/KawsarCodes404).
+- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/ridwanul-hoque-kawsar).
+- 💬 Ask me about **JavaScript, TypeScript, and web development.**
+- 📫 Feel free to reach me by [Email](mailto:ridwanulhoquekawsar404@gmail.com).
+- ⚡ Fun fact: I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !
 <br>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
