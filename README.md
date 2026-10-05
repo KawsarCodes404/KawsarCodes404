@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=2B90FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Full-Stack+Web+Developer;Building+with+JavaScript+%26+React;Learning+TypeScript+and+Node.js;Competitive+Programming+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KawsarCodes404&amp;label=Profile%20views&amp;color=2B90FF&amp;style=flat" alt="Profile views" />
-</p>
+
 
 <h3 align="left">🏆 Achievements:</h3>
 
@@ -111,5 +109,9 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" alt="Random developer quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KawsarCodes404&amp;label=Profile%20views&amp;color=2B90FF&amp;style=flat" alt="Profile views" />
 </p>
 
