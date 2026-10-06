@@ -68,10 +68,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://twitter.com/@ridwanul_hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" /></a>
+  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" /></a>
   <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
   <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" /></a>
-  <a href="https://www.youtube.com/c/ridwanul%20hoque%20kawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" /></a>
+  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" /></a>
 </p>
 
 <br><br>
