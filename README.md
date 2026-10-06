@@ -25,23 +25,31 @@
 - ⚡ Fun fact: I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !
 <br>
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="left"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" alt="" /> <b>TECHNOLOGY STACK:</b></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-</p>
+<h3 align="left">Languages:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts&amp;perline=6" alt="Languages" /></a></p>
+
+<h3 align="left">CSS Frameworks &amp; Libraries:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=tailwind" alt="CSS frameworks and libraries" /></a></p>
+
+<h3 align="left">JavaScript Frameworks &amp; Libraries:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=react,next,nodejs" alt="JavaScript frameworks and libraries" /></a></p>
+
+<h3 align="left">Database &amp; Model:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=mongodb" alt="Database and model" /></a></p>
+
+<h3 align="left">Deployment Platforms:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment platforms" /></a></p>
+
+<h3 align="left">Design &amp; Graphics:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design and graphics" /></a></p>
+
+<h3 align="left">Tools &amp; Technologies:</h3>
+<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode&amp;perline=6" alt="Tools and technologies" /></a></p>
 
 <br>
+
 
 <h2 align="center">🏆 Competitive Programming Profiles</h2>
 
@@ -59,11 +67,11 @@
 <h2 align="left"><img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35" alt="" /> <b>FOLLOW ME ON SOCIALS:</b></h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/@ridwanul_hoque1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" /></a>
-  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/c/ridwanul%20hoque%20kawsar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://twitter.com/@ridwanul_hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" /></a>
+  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
+  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" /></a>
+  <a href="https://www.youtube.com/c/ridwanul%20hoque%20kawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" /></a>
 </p>
 
 <br><br>
@@ -110,4 +118,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KawsarCodes404&amp;label=Profile%20views&amp;color=2B90FF&amp;style=flat" alt="Profile views" />
 </p>
-
