@@ -54,7 +54,7 @@
 <h2 align="center">🏆 Competitive Programming Profiles</h2>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/ridwanul_hoque"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>  <a href="https://codelab.programming-hero.com/labs/code-lab/profile"><img src="https://img.shields.io/badge/CodeLab-Profile-6A4C93?style=for-the-badge" alt="Programming Hero CodeLab" /></a>
+  <a href="https://www.codechef.com/users/ridwanul_hoque"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>  <a href="https://codelab.programming-hero.com/labs/code-lab/profile"><img src="https://img.shields.io/badge/CodeLab-D946EF?style=for-the-badge" alt="CodeLab" /></a>
   <a href="https://codeforces.com/profile/ridwanul_hoque_kawsar_2"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://vjudge.net/user/Ridwanul_Hoque"><img src="https://img.shields.io/badge/VJudge-111111?style=for-the-badge" alt="VJudge" /></a>
   <a href="https://leetcode.com/ridwanul_hoque_kawsar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
