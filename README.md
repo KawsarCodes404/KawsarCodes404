@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+  <a </a>
   <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>
   <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /></a>
   <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
