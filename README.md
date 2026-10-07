@@ -25,19 +25,6 @@
 - ⚡ Fun fact: I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !
 <br>
 
-<h2 align="center">🌐 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
-  <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>
-  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /></a>
-  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
-  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /></a>
-  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /></a>
-</p>
-
-<hr>
 
 <h2 align="center"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" alt="" /> <b>TECHNOLOGY STACK:</b></h2>
 
@@ -71,7 +58,24 @@
   <a href="https://auth.geeksforgeeks.org/user/ridwanulhoquekawsar"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
-<br><br>
+<br>
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+  <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>
+  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /></a>
+  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
+  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /></a>
+  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /></a>
+  <a href="https://discord.com/users/1520662856368914503"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="40" /></a>
+  <a href="https://wa.me/8801623222123"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="40" /></a>
+</p>
+
+<br>
 
 <h2 align="left"><img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30" alt="" /> <b>GITHUB STATISTICS &amp; ANALYSIS:</b></h2>
 
