@@ -25,31 +25,40 @@
 - ⚡ Fun fact: I think I have a strong curiosity to learn new things and Adaptability, autodidacticism, quick learner, self-taught, active learner, learning by doing & Experiential Learning mindset !
 <br>
 
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /><br/>LinkedIn</a>
+  <a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /><br/>GitHub</a>
+  <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /><br/>Email</a>
+  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /><br/>X</a>
+  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /><br/>Instagram</a>
+  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /><br/>Facebook</a>
+  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /><br/>YouTube</a>
+</p>
+
+<hr>
+
 <h2 align="left"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" alt="" /> <b>TECHNOLOGY STACK:</b></h2>
 
-<h3 align="left">Languages:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts&amp;perline=6" alt="Languages" /></a></p>
 
-<h3 align="left">CSS Frameworks &amp; Libraries:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=tailwind" alt="CSS frameworks and libraries" /></a></p>
 
-<h3 align="left">JavaScript Frameworks &amp; Libraries:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=react,next,nodejs" alt="JavaScript frameworks and libraries" /></a></p>
-
-<h3 align="left">Database &amp; Model:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=mongodb" alt="Database and model" /></a></p>
-
-<h3 align="left">Deployment Platforms:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment platforms" /></a></p>
-
-<h3 align="left">Design &amp; Graphics:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design and graphics" /></a></p>
-
-<h3 align="left">Tools &amp; Technologies:</h3>
-<p align="left"><a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode&amp;perline=6" alt="Tools and technologies" /></a></p>
+<table align="center">
+  <thead>
+    <tr><th align="left">Area</th><th align="left">Technologies</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Programming &amp; Web</strong></td><td><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts&amp;perline=6" alt="C, C++, HTML, CSS, JavaScript, TypeScript" height="40" /></td></tr>
+    <tr><td><strong>Frontend &amp; UI</strong></td><td><img src="https://skillicons.dev/icons?i=react,next,tailwind" alt="React, Next.js, Tailwind CSS" height="40" /> <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&amp;logo=daisyui&amp;logoColor=white" alt="DaisyUI" /></td></tr>
+    <tr><td><strong>Backend</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" height="40" /></td></tr>
+    <tr><td><strong>Database &amp; ODM</strong></td><td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" alt="Mongoose" /></td></tr>
+    <tr><td><strong>Deployment</strong></td><td><img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Vercel, Netlify, Firebase" height="40" /></td></tr>
+    <tr><td><strong>Tools &amp; Systems</strong></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,windows,notion&amp;perline=7" alt="Git, GitHub, VS Code, Linux, Ubuntu, Windows, Notion" height="40" /></td></tr>
+    <tr><td><strong>Design</strong></td><td><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Figma, Adobe Illustrator, Photoshop" height="40" /></td></tr>
+  </tbody>
+</table>
 
 <br>
-
 
 <h2 align="center">🏆 Competitive Programming Profiles</h2>
 
@@ -60,18 +69,6 @@
   <a href="https://leetcode.com/ridwanul_hoque_kawsar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.hackerrank.com/kawsarhaque430"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://auth.geeksforgeeks.org/user/ridwanulhoquekawsar"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-</p>
-
-<br>
-
-<h2 align="left"><img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35" alt="" /> <b>FOLLOW ME ON SOCIALS:</b></h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" /></a>
-  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
-  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" /></a>
-  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" /></a>
 </p>
 
 <br><br>
