@@ -28,18 +28,18 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /><br/>LinkedIn</a>
-  <a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /><br/>GitHub</a>
-  <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /><br/>Email</a>
-  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /><br/>X</a>
-  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /><br/>Instagram</a>
-  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /><br/>Facebook</a>
-  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /><br/>YouTube</a>
+  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="https://github.com/KawsarCodes404"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+  <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>
+  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /></a>
+  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
+  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /></a>
+  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /></a>
 </p>
 
 <hr>
 
-<h2 align="left"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" alt="" /> <b>TECHNOLOGY STACK:</b></h2>
+<h2 align="center"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" alt="" /> <b>TECHNOLOGY STACK:</b></h2>
 
 
 
