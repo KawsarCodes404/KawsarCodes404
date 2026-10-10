@@ -64,15 +64,8 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a </a>
-  <a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>
-  <a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /></a>
-  <a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
-  <a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /></a>
-  <a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /></a>
-  <a href="https://discord.com/users/1520662856368914503"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="40" /></a>
-  <a href="https://wa.me/8801623222123"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="40" /></a>
+    <a href="https://linkedin.com/in/ridwanul-hoque-kawsar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="mailto:ridwanulhoquekawsar404@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>&nbsp;&nbsp;<a href="https://x.com/Ridwanul_Hoque1"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" /></a>&nbsp;&nbsp;<a href="https://instagram.com/ridwanulhoquekawsar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>&nbsp;&nbsp;<a href="https://fb.com/ridwanul.hoque.kawsar"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="40" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@ridwanulhoquekawsar"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="40" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1520662856368914503"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="40" /></a>&nbsp;&nbsp;<a href="https://wa.me/8801623222123"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="40" /></a>
+
 </p>
 
 <br>
